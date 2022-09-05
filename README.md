@@ -9,7 +9,7 @@ Download this code and save it a folder ,Go to chrome extension and turn on the 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/88644848/188476826-a485e03d-cb83-4ca1-8e8f-5454404ecbb5.png)
 
-#FUNCTIONS
+# FUNCTIONS
 
 Inside the tab you can type your text and hit save button to take it as notes 
 
