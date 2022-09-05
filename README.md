@@ -7,4 +7,6 @@ This is the extension hepls us to take notes and copy our current page URL for o
 
 Download this code and save it a folder ,Go to chrome extension and turn on the develope mode and select load unpacked and select the your folder at last pin the extension
 
+![Screenshot (17)](https://user-images.githubusercontent.com/88644848/188476826-a485e03d-cb83-4ca1-8e8f-5454404ecbb5.png)
+
 
