@@ -5,4 +5,6 @@ This is the extension hepls us to take notes and copy our current page URL for o
 
 # installation
 
-Download this code and save it a folder ,Go to chrome extension and turn on the develope mode  
+Download this code and save it a folder ,Go to chrome extension and turn on the develope mode and select load unpacked and select the your folder at last pin the extension
+
+
